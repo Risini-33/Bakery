@@ -1,0 +1,6 @@
+Login as Admin :  Username = admin
+		  Password = 1111
+
+
+Login as Cashier : Username = cashier
+		   Password = 0000

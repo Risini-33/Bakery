@@ -1,0 +1,8 @@
+ItemID		Name		Price(Rs)	Quantity	ExpiryDate
+001		Bread		20		60		01/5/2023
+002		Bun		25		30		08/2/2023
+003		Cake		30		25		05/2/2023
+004		Butter		40		50		15/6/2023
+005		Pudding		50		50		15/2/2023
+006		Muffin		60		50		16/2/2023
+007		Donut		20		9		12/1/2023

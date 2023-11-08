@@ -1,0 +1,34 @@
+-----Order ID: 0 -----
+Item ID: 001	Item Name: Bread			Quantity: 2	Cost: 40
+Item ID: 003	Item Name: Cake				Quantity: 2	Cost: 60
+
+**** Total Amount : Rs.100 ****
+
+
+-----Order ID: 7 -----
+Item ID: 004	Item Name: Butter			Quantity: 5	Cost: 200
+
+**** Total Amount : Rs.200 ****
+
+
+-----Order ID: 13 -----
+Item ID: 001	Item Name: Bread			Quantity: 2	Cost: 40
+Item ID: 002	Item Name: Bun				Quantity: 2	Cost: 50
+
+**** Total Amount : Rs.90 ****
+
+
+
+
+-----Order ID: 22 -----
+Item ID: 006	Item Name: Muffin			Quantity: 2	Cost: 120
+
+**** Total Amount : Rs.120 ****
+
+
+-----Order ID: 28 -----
+Item ID: 007	Item Name: Donut			Quantity: 1	Cost: 20
+
+**** Total Amount : Rs.20 ****
+
+
