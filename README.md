@@ -1,3 +1,5 @@
 # Bakery
 
-bakery management system
+Bakery Management System
+  - Admin
+  - User
